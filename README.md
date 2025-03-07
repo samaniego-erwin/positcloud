@@ -29,9 +29,9 @@ The second part involves writing an automated test that logs into https://posit.
 
 
 ## RUN THE SCRIPT
-*Edit `constants.py` to add your email and password for login.
+* Edit `constants.py` to add your email and password for login.
   * Values were omitted from the file on purpose to avoid having them in plain text.
-*From the terminal, run:
+* From the terminal, run:
 ```
 pytest test_rstudio_project_create.py
 ```
