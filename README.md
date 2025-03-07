@@ -10,12 +10,12 @@ The assignment was to write an automated test that logs into https://posit.cloud
   Python 3.12.7
   ```
 * Install pytest.
-  * From a command prompt or terminal and run the following command to install pytest using pip: 
+  * From a command prompt or terminal, run the following command to install pytest using pip: 
   ```
   pip install pytest
   ```
 * Install Selenium.
-  * From a command prompt or terminal and run the following command to install Selenium using pip: 
+  * From a command prompt or terminal, run the following command to install Selenium using pip: 
   ```
   pip install selenium
   ```
