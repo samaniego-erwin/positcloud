@@ -16,4 +16,5 @@ class LoginPage:
         self.driver.find_element(By.NAME, "password").send_keys(passwd)
 
     def click_login_button(self):
+        # Log In button element
         self.driver.find_element(By.XPATH, "//button[@type='submit']").click()

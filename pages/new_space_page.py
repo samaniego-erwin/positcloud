@@ -19,6 +19,7 @@ class NewSpacePage:
         self.driver.find_element(By.XPATH, "//span[normalize-space()='Create']").click()
 
     def click_newly_created_space(self):
+        # Element for the user created space
         self.driver.find_element(By.XPATH, "//div[@class='spaceNameWithOwner']").click()
 
     def click_create_new_project(self):
