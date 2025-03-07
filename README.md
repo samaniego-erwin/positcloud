@@ -250,7 +250,7 @@ FAILED test_rstudio_project_create.py::test_create_new_space_and_new_rstudioproj
 ## TROUBLESHOOTING
 * `zsh: command not found: python` error when running the command `python –-version`. Try ` python3 --version` instead
 * `zsh: command not found: pip` error when installing using pip. Try `pip3` instead
-* `zsh: command not found: pytest` even if pytest is installed. Try `python3 -m pytest` instead
+* `zsh: command not found: pytest` error even if pytest is installed. Try `python3 -m pytest` instead
 * stale error when running the script. Try to clear your browser cache
 
 
